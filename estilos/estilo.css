@@ -1,0 +1,32 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: rgb(25, 25, 90);
+}
+
+body{
+    background-color: rgb(224, 120, 176);
+}
+#CancionKanye{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(95, 34, 95);
+}
+.estiloespecial{
+    color: brown;
+    font-size: 30px;
+}
+header{
+    background-color: blue;
+    margin: 20px;
+    padding: 20px;
+    border: 3px solid;
+    border-radius: 30px;
+}
+footer{
+    background-color: rgb(63, 59, 59);
+}
+#fotokanye{
+    margin: 20px;
+    border: 30px solid;
+    width: 100px;
+}

@@ -30,3 +30,32 @@ footer{
     border: 30px solid;
     width: 100px;
 }
+.boton{
+    width: 134px;
+    height: 37px;
+    border-radius: 30px;
+    background: #AC1C10;
+    margin: 20px;
+    list-style: none;
+    text-align: center;
+    
+}
+.boton a{
+    color: white;
+    text-decoration: none;
+}
+.menu{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+#fotoprincipal{
+    width: 400px;
+    height: auto;
+}
+.clasecontenedor{
+    background-color: rgb(14, 8, 8);
+    width: 70%;
+    display: flex;
+}
